@@ -1,5 +1,5 @@
 # Reinforcement-Learning
-Valuable ressources to delve into the RL world
+Valuable ressources to delve into the theory of the RL world
 
 
 Websites to learn about : 
@@ -9,3 +9,6 @@ Websites to learn about :
 videos to learn about : 
 - Experience replay : https://www.youtube.com/watch?v=BBBa2mte1Ls
 - Double Q-learning : https://www.youtube.com/watch?v=Lb5ADHnRQV8
+
+Valuable ressources to delve into practical RL algorithms:
+Very important: clean RL 
